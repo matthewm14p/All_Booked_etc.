@@ -39,33 +39,33 @@ function myFunction() {
        </p> </center>
        
        <p>  <div class="a"><div class="content"> 
-       <left>Small Duck in the Big Bathtub
-         <br> By:James Hopper</br></left>
+       <left>~Small Duck in the Big Bathtub~
+         <br> By: James Hopper</br></left>
        <br> This is a story about a Rubber Duck named Brian who fell into the bathtub, and is now floating for his life in the little water left in the tub while being chased by bugs and insects who are trying to consume him and his rubber body.</br>
        </p>
        
         <p>
-       <left>A Mutually Assured Attachment
-         <br> By:Nikolai Khruschev</br></left>
-       <br> Everyday Alexandra asks her boyfriend if he loves her. His answer is, "do you?" Will they ever know...</br>
+       <left>~A Mutually Assured Attachment~
+         <br> By: Victor Nikiforov</br></left>
+       <br> The story of two friends, just friends. They are nothing more, barely friends really. More so of a familiar face. They rarely talk outside of the approprate amount. The two are simply very quiet. Neither craves friendship, but for group projects, they know their best chance is one another. One could almost say that they are just using one another to save time with things like projects. You could possibly say that these two not-friends have a mutually assured attachment. Funny how that works. </br>
       </p>
 
         <p>
-       <left>Let's Out-pizza the Hutt
+       <left>~Let's Out-pizza the Hutt~
          <br> By: Jabba the Hutt</br></left>
-       <br> Bacon ipsum dolor amet pancetta brisket tail jerky sausage beef. Buffalo pastrami sirloin landjaeger ground round, flank capicola t-bone spare ribs beef kielbasa swine chislic shankle.</br>
+       <br> A classic Halmark plot really.</br>
       </p>
 
       <p>
-      <left> Poison Lead Pencil
+      <left> ~Poison Lead Pencil~
         <br> By: Dan Timpy</br></left>
-       <br> Turducken porchetta tri-tip, pastrami filet mignon pork chop tenderloin corned beef kielbasa chuck cupim venison burgdoggen pig. Kevin pork belly bresaola salami.</br>
+       <br> People in the town of Salem have been dropping like flies. When a wanna be Sherlock comes to town, the deaths increase... </br>
       </p>
 
       <p>
-       <left>Trapped in the Closet
+       <left>~Trapped in the Closet~
          <br> By: R Kelly</br></left>
-       <br> Shoulder spare ribs bacon capicola, doner corned beef ball tip short ribs biltong.</br>
+       <br> Just the story of a girl, trapped in a closet. Yeah that's it. No mythical worlds here. No adventure. Just a girl in a dark closet playing mincraft and her pet dog just died.</br>
       </p></div>
   <br>
   <br>
